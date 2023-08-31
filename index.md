@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Vanessa Gomez's First CS193 Homework
-## Heading
+## August 31, 2023
 ### Vanessa's Favorite Things About CS193
 
 - Word of the Day
@@ -23,6 +23,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. Cool
 
 **Bold** and _Italic_ and `Code` text
 
